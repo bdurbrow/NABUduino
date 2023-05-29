@@ -1,0 +1,24 @@
+PCB Files:
+
+NABUduino.GTL = Copper Layer 1 (Top)
+NABUduino.GBL = Copper Layer 2 (Bottom)
+NABUduino.GTS = Top Solder Mask
+NABUduino.GBS = Bottom Solder Mask
+NABUduino.GTO = Top Silkscreen
+NABUduino.GBO = Bottom Silkscreen
+NABUduino.GKO = Board Outline
+NABUduino.DRL = Excellon Drill File
+
+
+All drill holes are specified in finished sizes. All drill holes in the .DRL files are plated thru.
+
+
+
+Any slots and/or holes in the .GKO files are non-plated.
+
+All dimensions in the design files are in inches.
+
+The PCB is exactly 3.3465 inches wide by 6.4961 inches tall.
+The board outline lines in the .GKO file are drawn with the board dimensions at the center of the line width.
+The PCB is to be made using 1.60mm thick FR4; black solder mask; Lead-Free HASL finish.
+
