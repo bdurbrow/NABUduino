@@ -20,14 +20,14 @@ Also note that the firmware for this is currently being written, and all that is
 
 * DIP ICs:
 
-  74hct165; two each
-  74ahct138; two each
-  74hc595; two each
-  74hct32
-  74hct125
-  74hct245
-  74hct04
-  CD4044B
+  - 74hct165; two each
+  - 74ahct138; two each
+  - 74hc595; two each
+  - 74hct32
+  - 74hct125
+  - 74hct245
+  - 74hct04
+  - CD4044B
 
 * A 1N4001 or similar diode.
 
